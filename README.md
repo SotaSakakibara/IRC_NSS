@@ -1,2 +1,3 @@
 # IRC_NSS
-a
+## 知能ロボットコンテスト(Intelligent Robot Contest)
+
